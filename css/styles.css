@@ -10,10 +10,14 @@ body {
   width: 100%;
 }
 
+.header-title{
+  padding-top: 60px;
+}
+
 .header-text {
   margin: 0;
   color: white;
-  font-size: 6rem;
+  font-size: 3rem;
 }
 
 /* total-traffic */
